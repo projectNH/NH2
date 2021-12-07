@@ -37,12 +37,12 @@ jobs:
 					name: Build-${{ matrix.targetPlatform }}
 					path: build/${{ matrix.targetPlatform }}
       
-	upload:
-	###########################
-	#          Upload         #
-	###########################
-	- uses: actions/upload-artifact@v2
-		with:
-			name: Build (${{ matrix.unityVersion }})
-			path: build
-			retention-days: 30
+		upload:
+		###########################
+		#          Upload         #
+		###########################
+		- uses: actions/upload-artifact@v2
+			with:
+				name: Build (${{ matrix.unityVersion }})
+				path: build
+				retention-days: 30
