@@ -3,7 +3,17 @@ guid: 6934a6af4bc50814aac8625f973c69f0
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Calcada
+    second: {fileID: 2100000, guid: fbc81d0a00241ea48916816699acedcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meio_Fio
+    second: {fileID: 2100000, guid: 4ae79d81cfd26d9439f6603f7881242a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
