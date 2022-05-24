@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &6377569250008533365
 Transform:
@@ -107,7 +107,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &6377569250034453686
 Transform:
@@ -210,6 +210,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Janela_01_1,5x1) (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118164263560275038, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475069363303006918, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
 --- !u!4 &1342837963418928359 stripped
@@ -271,6 +283,18 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Janela_01_1,5x1) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118164263560275038, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475069363303006918, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
@@ -342,6 +366,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Janela_03_0,6x0,6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: af43522f6b6ff544f94d5be1679ca21d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af43522f6b6ff544f94d5be1679ca21d, type: 3}
 --- !u!4 &2346073380744239383 stripped
@@ -403,6 +431,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af43522f6b6ff544f94d5be1679ca21d, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Janela_03_0,6x0,6) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: af43522f6b6ff544f94d5be1679ca21d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af43522f6b6ff544f94d5be1679ca21d, type: 3}
@@ -478,6 +510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Janela_03_0,6x0,6) (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: af43522f6b6ff544f94d5be1679ca21d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af43522f6b6ff544f94d5be1679ca21d, type: 3}
 --- !u!4 &5865375339507639055 stripped
@@ -544,6 +580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Telhado_3x9_Ponta_Sem_Cano)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7af0effdb80df3345974bc0820fac413, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7af0effdb80df3345974bc0820fac413, type: 3}
 --- !u!4 &6848589702205967351 stripped
@@ -609,6 +649,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Parede _3x3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
@@ -688,6 +732,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede _3x3) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
 --- !u!4 &6848589702129195783 stripped
@@ -765,6 +813,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 73a20c44a9872c0439d7255a71a19fcf, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_3.2x3.2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 73a20c44a9872c0439d7255a71a19fcf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 73a20c44a9872c0439d7255a71a19fcf, type: 3}
@@ -844,6 +896,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede _3x3) (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
 --- !u!4 &6848589701874600835 stripped
@@ -917,6 +973,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 052fd0f5d40cb4f47840b127012cad30, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_Duas_Janela_Banheiro_3x3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 052fd0f5d40cb4f47840b127012cad30, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 052fd0f5d40cb4f47840b127012cad30, type: 3}
@@ -996,6 +1056,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede _3x3) (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
 --- !u!4 &6848589701762934234 stripped
@@ -1070,6 +1134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_Janela_Banheiro_3x3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cf20bc8a6ff9c664294af7dd00ac9544, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf20bc8a6ff9c664294af7dd00ac9544, type: 3}
 --- !u!4 &6848589701691150966 stripped
@@ -1135,6 +1203,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Parede _3x3) (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
@@ -1214,6 +1286,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_Janela_Porta-3x3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 506873cbab04ea0489e8d14400adbe49, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 506873cbab04ea0489e8d14400adbe49, type: 3}
 --- !u!4 &6848589701445799330 stripped
@@ -1292,6 +1368,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede _3x3) (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
 --- !u!4 &6848589701416345487 stripped
@@ -1358,6 +1438,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_3.2x3.2) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 73a20c44a9872c0439d7255a71a19fcf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 73a20c44a9872c0439d7255a71a19fcf, type: 3}
 --- !u!4 &6848589701387037008 stripped
@@ -1423,6 +1507,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8ae88ba67ad932a41bc2b94e210d7478, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Telhado_3x9_Ponta)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8ae88ba67ad932a41bc2b94e210d7478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8ae88ba67ad932a41bc2b94e210d7478, type: 3}
@@ -1502,6 +1590,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede _3x3) (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a967fb124c5b20340b95bb5a57999c17, type: 3}
 --- !u!4 &6848589701246042969 stripped
@@ -1567,6 +1659,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2dee33d2285528e4993f5408ee73b8eb, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_Janela_Porta_3x3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2dee33d2285528e4993f5408ee73b8eb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dee33d2285528e4993f5408ee73b8eb, type: 3}
@@ -1642,6 +1738,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_Janela_Direita_3x3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a82690e4d871426468bdb3d06ef46f8a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a82690e4d871426468bdb3d06ef46f8a, type: 3}
 --- !u!4 &6848589700936791252 stripped
@@ -1716,6 +1816,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede_Porta_3x3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 21f08fd26cf0603499fa4a70692cced7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21f08fd26cf0603499fa4a70692cced7, type: 3}
 --- !u!4 &6848589700688804260 stripped
@@ -1777,6 +1881,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8bd06596fc5af4c4dae2f4effd7be049, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Telhado_15x12_Formato_T)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8bd06596fc5af4c4dae2f4effd7be049, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bd06596fc5af4c4dae2f4effd7be049, type: 3}
@@ -1844,6 +1952,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Parede_em_L_Duas_Janelas_3x3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c4f5c18622900874e8e2acc2adc50c9d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c4f5c18622900874e8e2acc2adc50c9d, type: 3}
 --- !u!4 &6848589700434655562 stripped
@@ -1910,6 +2022,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Telhado_3x9_Ponta_Sem_Cano) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7af0effdb80df3345974bc0820fac413, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7af0effdb80df3345974bc0820fac413, type: 3}
 --- !u!4 &6848589700443056732 stripped
@@ -1972,13 +2088,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8484587498052151606, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -1937193857471617754, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 3713b233d776ec548b6ff71edd252e40, type: 2}
+    - target: {fileID: -68262299756650271, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
       propertyPath: m_Name
       value: MESH_ENV_[Porta_Madeira_2.1m x 85cm]_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
@@ -2042,6 +2170,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Janela_01_1,5x1) (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118164263560275038, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475069363303006918, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
 --- !u!4 &6746177375285081009 stripped
@@ -2104,6 +2244,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Janela_01_1,5x1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118164263560275038, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475069363303006918, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
 --- !u!4 &6421232746914489418 stripped
@@ -2162,9 +2314,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8484587498052151606, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -68262299756650271, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
       propertyPath: m_Name
       value: MESH_ENV_[Porta_Madeira_2.1m x 85cm]_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
@@ -2228,13 +2392,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8484587498052151606, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -1937193857471617754, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 3713b233d776ec548b6ff71edd252e40, type: 2}
+    - target: {fileID: -68262299756650271, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
       propertyPath: m_Name
       value: MESH_ENV_[Porta_Madeira_2.1m x 85cm]_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e04bc77230b0d8947b68fd0d3da58fac, type: 3}
@@ -2297,6 +2473,18 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Janela_01_1,5x1) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118164263560275038, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475069363303006918, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}

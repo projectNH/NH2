@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4633738078875773214
 Transform:
@@ -89,6 +89,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MESH_ENV(Janela_01_1,5x1) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118164263560275038, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475069363303006918, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
 --- !u!4 &5171505964469162362 stripped
@@ -147,9 +159,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5864423998157936614, guid: 20ab196678cbf204997c559a8b7c6304, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 20ab196678cbf204997c559a8b7c6304, type: 3}
       propertyPath: m_Name
       value: MESH_ENV_[Porta_Metal_2.1m x 85cm]_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 20ab196678cbf204997c559a8b7c6304, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2868336387653659292, guid: 20ab196678cbf204997c559a8b7c6304, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20ab196678cbf204997c559a8b7c6304, type: 3}
@@ -209,18 +233,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8391222552659086748, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: -4683669308469848369, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 98a7a62825059bf4b9d13e36bf40200c, type: 2}
+    - target: {fileID: 815081723220269739, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
       propertyPath: m_Name
       value: casa-1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 2436805924640856272, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d35d04ffeb68afa4c871d50026046a63, type: 2}
+    - target: {fileID: 4621870407744739042, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd9e0bdae92e994449fd2c39758df6f7, type: 3}
 --- !u!4 &5171505963747494319 stripped
@@ -282,6 +322,18 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
       propertyPath: m_Name
       value: MESH_ENV(Janela_01_1,5x1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118164263560275038, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7475069363303006918, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82cb1180faf968479e4b5b1f215ba0a, type: 3}
